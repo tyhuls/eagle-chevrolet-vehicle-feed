@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
   <channel>
-    <title>Eagle Chevrolet Buick Vehicle Inventory</title>
+    <title>Eagle Chevrolet Buick Vehicle Feed</title>
     <link>https://www.eaglechevroletbuick.com</link>
-    <description>Vehicle inventory feed for Eagle Chevrolet Buick, Chadron NE - Google Vehicle Ads</description>
+    <description>Google Vehicle Ads feed for Eagle Chevrolet Buick, Chadron NE</description>
   <item>
-    <g:id>P2642A</g:id>
+    <g:id>1GNEVGRS0SJ127775</g:id>
     <g:VIN>1GNEVGRS0SJ127775</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -23,9 +23,9 @@
     <g:condition>Used</g:condition>
     <g:price>39995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevgrs0sj127775/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Traverse-AWD+LT-1GNEVGRS0SJ127775</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Traverse-AWD+LT-1GNEVGRS0SJ127775?store=5542329254</g:link_template>
     <g:title>2025 Chevrolet Traverse AWD LT</g:title>
@@ -40,7 +40,7 @@
     <g:custom_label_4>P2642A</g:custom_label_4>
   </item>
   <item>
-    <g:id>25136B</g:id>
+    <g:id>3GCUKPEC5JG132739</g:id>
     <g:VIN>3GCUKPEC5JG132739</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -72,7 +72,7 @@
     <g:custom_label_4>25136B</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2673</g:id>
+    <g:id>5GAKVBKD9FJ288742</g:id>
     <g:VIN>5GAKVBKD9FJ288742</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -104,7 +104,7 @@
     <g:custom_label_4>P2673</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2538A</g:id>
+    <g:id>1FT8W3DT5FEA78065</g:id>
     <g:VIN>1FT8W3DT5FEA78065</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -136,7 +136,7 @@
     <g:custom_label_4>P2538A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2654A</g:id>
+    <g:id>1FT7X2B63CED17432</g:id>
     <g:VIN>1FT7X2B63CED17432</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -168,7 +168,7 @@
     <g:custom_label_4>P2654A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2670</g:id>
+    <g:id>1C4RDJDG7TC189306</g:id>
     <g:VIN>1C4RDJDG7TC189306</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -186,9 +186,9 @@
     <g:condition>Used</g:condition>
     <g:price>37995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c4rdjdg7tc189306/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2026-Dodge-Durango-GT-1C4RDJDG7TC189306</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2026-Dodge-Durango-GT-1C4RDJDG7TC189306?store=5542329254</g:link_template>
     <g:title>2026 Dodge Durango GT</g:title>
@@ -203,7 +203,7 @@
     <g:custom_label_4>P2670</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2671</g:id>
+    <g:id>1GT49TE78PF141677</g:id>
     <g:VIN>1GT49TE78PF141677</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -235,7 +235,7 @@
     <g:custom_label_4>P2671</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2669</g:id>
+    <g:id>1GCGTBEN1H1237513</g:id>
     <g:VIN>1GCGTBEN1H1237513</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -267,7 +267,7 @@
     <g:custom_label_4>P2669</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2653A</g:id>
+    <g:id>2G1FC1E31E9210462</g:id>
     <g:VIN>2G1FC1E31E9210462</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -285,9 +285,9 @@
     <g:condition>Used</g:condition>
     <g:price>16995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2g1fc1e31e9210462/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2014-Chevrolet-Camaro-LT-2G1FC1E31E9210462</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2014-Chevrolet-Camaro-LT-2G1FC1E31E9210462?store=5542329254</g:link_template>
     <g:title>2014 Chevrolet Camaro LT</g:title>
@@ -302,7 +302,7 @@
     <g:custom_label_4>P2653A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2621B</g:id>
+    <g:id>1GKS2MEF3DR232167</g:id>
     <g:VIN>1GKS2MEF3DR232167</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -320,9 +320,9 @@
     <g:condition>Used</g:condition>
     <g:price>11995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2mef3dr232167/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2013-GMC-Yukon+XL+1500-Denali-1GKS2MEF3DR232167</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2013-GMC-Yukon+XL+1500-Denali-1GKS2MEF3DR232167?store=5542329254</g:link_template>
     <g:title>2013 GMC Yukon XL Denali</g:title>
@@ -337,7 +337,7 @@
     <g:custom_label_4>P2621B</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2667</g:id>
+    <g:id>1GKS2HKD6RR196119</g:id>
     <g:VIN>1GKS2HKD6RR196119</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -369,7 +369,7 @@
     <g:custom_label_4>P2667</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2668</g:id>
+    <g:id>3C6UR5FL8RG407487</g:id>
     <g:VIN>3C6UR5FL8RG407487</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -387,9 +387,9 @@
     <g:condition>Used</g:condition>
     <g:price>61995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c6ur5fl8rg407487/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Ram-2500-Laramie-3C6UR5FL8RG407487</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Ram-2500-Laramie-3C6UR5FL8RG407487?store=5542329254</g:link_template>
     <g:title>2024 Ram 2500 Laramie</g:title>
@@ -404,7 +404,7 @@
     <g:custom_label_4>P2668</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2666</g:id>
+    <g:id>1G1ZC5ST0JF195737</g:id>
     <g:VIN>1G1ZC5ST0JF195737</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -422,9 +422,9 @@
     <g:condition>Used</g:condition>
     <g:price>19995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1g1zc5st0jf195737/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2018-Chevrolet-Malibu-LS-1G1ZC5ST0JF195737</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2018-Chevrolet-Malibu-LS-1G1ZC5ST0JF195737?store=5542329254</g:link_template>
     <g:title>2018 Chevrolet Malibu LS</g:title>
@@ -439,7 +439,7 @@
     <g:custom_label_4>P2666</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2633A</g:id>
+    <g:id>2B3KA43GX6H516362</g:id>
     <g:VIN>2B3KA43GX6H516362</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -457,9 +457,9 @@
     <g:condition>Used</g:condition>
     <g:price>9995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2b3ka43gx6h516362/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2006-Dodge-Charger-SE-2B3KA43GX6H516362</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2006-Dodge-Charger-SE-2B3KA43GX6H516362?store=5542329254</g:link_template>
     <g:title>2006 Dodge Charger SE</g:title>
@@ -474,7 +474,7 @@
     <g:custom_label_4>P2633A</g:custom_label_4>
   </item>
   <item>
-    <g:id>26069</g:id>
+    <g:id>1GC4KLE71TF259973</g:id>
     <g:VIN>1GC4KLE71TF259973</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -492,9 +492,9 @@
     <g:condition>New</g:condition>
     <g:price>54170.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kle71tf259973/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+2500-WT-1GC4KLE71TF259973</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+2500-WT-1GC4KLE71TF259973?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Silverado WT</g:title>
@@ -509,7 +509,7 @@
     <g:custom_label_4>26069</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2625A</g:id>
+    <g:id>3GNAXSEV4MS182419</g:id>
     <g:VIN>3GNAXSEV4MS182419</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -527,9 +527,9 @@
     <g:condition>Used</g:condition>
     <g:price>19995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxsev4ms182419/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Equinox-LS-3GNAXSEV4MS182419</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Equinox-LS-3GNAXSEV4MS182419?store=5542329254</g:link_template>
     <g:title>2021 Chevrolet Equinox LS</g:title>
@@ -544,7 +544,7 @@
     <g:custom_label_4>P2625A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2664</g:id>
+    <g:id>1FT8W3BT2CED20082</g:id>
     <g:VIN>1FT8W3BT2CED20082</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -576,7 +576,7 @@
     <g:custom_label_4>P2664</g:custom_label_4>
   </item>
   <item>
-    <g:id>26036A</g:id>
+    <g:id>1GCUYDED3MZ430507</g:id>
     <g:VIN>1GCUYDED3MZ430507</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -594,9 +594,9 @@
     <g:condition>Used</g:condition>
     <g:price>19995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded3mz430507/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Silverado+1500-LT-1GCUYDED3MZ430507</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Silverado+1500-LT-1GCUYDED3MZ430507?store=5542329254</g:link_template>
     <g:title>2021 Chevrolet Silverado LT</g:title>
@@ -611,7 +611,7 @@
     <g:custom_label_4>26036A</g:custom_label_4>
   </item>
   <item>
-    <g:id>26068A</g:id>
+    <g:id>1GCUYGED5MZ349381</g:id>
     <g:VIN>1GCUYGED5MZ349381</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -643,7 +643,7 @@
     <g:custom_label_4>26068A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2630A</g:id>
+    <g:id>1FTFW1EV7AKB36571</g:id>
     <g:VIN>1FTFW1EV7AKB36571</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -675,7 +675,7 @@
     <g:custom_label_4>P2630A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2660</g:id>
+    <g:id>1GTRUBED9PZ216230</g:id>
     <g:VIN>1GTRUBED9PZ216230</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -707,7 +707,7 @@
     <g:custom_label_4>P2660</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2659</g:id>
+    <g:id>KL7CJPSMXNB563648</g:id>
     <g:VIN>KL7CJPSMXNB563648</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -725,9 +725,9 @@
     <g:condition>Used</g:condition>
     <g:price>20995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl7cjpsmxnb563648/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2022-Chevrolet-Trax-LT-KL7CJPSMXNB563648</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2022-Chevrolet-Trax-LT-KL7CJPSMXNB563648?store=5542329254</g:link_template>
     <g:title>2022 Chevrolet Trax LT</g:title>
@@ -742,7 +742,7 @@
     <g:custom_label_4>P2659</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2661</g:id>
+    <g:id>KL4MMCSL3MB181646</g:id>
     <g:VIN>KL4MMCSL3MB181646</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -760,9 +760,9 @@
     <g:condition>Used</g:condition>
     <g:price>16995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kl4mmcsl3mb181646/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Buick-Encore+GX-Preferred-KL4MMCSL3MB181646</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Buick-Encore+GX-Preferred-KL4MMCSL3MB181646?store=5542329254</g:link_template>
     <g:title>2021 Buick Encore GX Preferred</g:title>
@@ -777,7 +777,7 @@
     <g:custom_label_4>P2661</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2658</g:id>
+    <g:id>3C63R3CL9FG508778</g:id>
     <g:VIN>3C63R3CL9FG508778</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -809,7 +809,7 @@
     <g:custom_label_4>P2658</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2655</g:id>
+    <g:id>1FMJK2A86REA34213</g:id>
     <g:VIN>1FMJK2A86REA34213</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -827,9 +827,9 @@
     <g:condition>Used</g:condition>
     <g:price>52995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk2a86rea34213/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Ford-Expedition+MAX-Limited-1FMJK2A86REA34213</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Ford-Expedition+MAX-Limited-1FMJK2A86REA34213?store=5542329254</g:link_template>
     <g:title>2024 Ford Expedition MAX Limited</g:title>
@@ -844,7 +844,7 @@
     <g:custom_label_4>P2655</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2656</g:id>
+    <g:id>1GKENNKS8RJ200655</g:id>
     <g:VIN>1GKENNKS8RJ200655</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -862,9 +862,9 @@
     <g:condition>Used</g:condition>
     <g:price>35995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gkennks8rj200655/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-GMC-Acadia-AWD+Elevation-1GKENNKS8RJ200655</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-GMC-Acadia-AWD+Elevation-1GKENNKS8RJ200655?store=5542329254</g:link_template>
     <g:title>2024 GMC Acadia AWD Elevation</g:title>
@@ -879,7 +879,7 @@
     <g:custom_label_4>P2656</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2652</g:id>
+    <g:id>1GCUKDED7SZ238876</g:id>
     <g:VIN>1GCUKDED7SZ238876</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -897,9 +897,9 @@
     <g:condition>Used</g:condition>
     <g:price>46995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcukded7sz238876/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Silverado+1500-LT-1GCUKDED7SZ238876</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Silverado+1500-LT-1GCUKDED7SZ238876?store=5542329254</g:link_template>
     <g:title>2025 Chevrolet Silverado LT</g:title>
@@ -914,7 +914,7 @@
     <g:custom_label_4>P2652</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2651</g:id>
+    <g:id>1GKS2GKD0MR412422</g:id>
     <g:VIN>1GKS2GKD0MR412422</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -932,9 +932,9 @@
     <g:condition>Used</g:condition>
     <g:price>46995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gks2gkd0mr412422/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-GMC-Yukon+XL+1500-SLT-1GKS2GKD0MR412422</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-GMC-Yukon+XL+1500-SLT-1GKS2GKD0MR412422?store=5542329254</g:link_template>
     <g:title>2021 GMC Yukon XL SLT</g:title>
@@ -949,7 +949,7 @@
     <g:custom_label_4>P2651</g:custom_label_4>
   </item>
   <item>
-    <g:id>26049B</g:id>
+    <g:id>1FMCU9GX8FUC67683</g:id>
     <g:VIN>1FMCU9GX8FUC67683</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -967,9 +967,9 @@
     <g:condition>Used</g:condition>
     <g:price>13995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmcu9gx8fuc67683/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2015-Ford-Escape-SE-1FMCU9GX8FUC67683</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2015-Ford-Escape-SE-1FMCU9GX8FUC67683?store=5542329254</g:link_template>
     <g:title>2015 Ford Escape SE</g:title>
@@ -984,7 +984,7 @@
     <g:custom_label_4>26049B</g:custom_label_4>
   </item>
   <item>
-    <g:id>26054A</g:id>
+    <g:id>3GNKBLRS2PS178933</g:id>
     <g:VIN>3GNKBLRS2PS178933</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1002,9 +1002,9 @@
     <g:condition>Used</g:condition>
     <g:price>27995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkblrs2ps178933/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2023-Chevrolet-Blazer-Premier-3GNKBLRS2PS178933</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2023-Chevrolet-Blazer-Premier-3GNKBLRS2PS178933?store=5542329254</g:link_template>
     <g:title>2023 Chevrolet Blazer Premier</g:title>
@@ -1019,7 +1019,7 @@
     <g:custom_label_4>26054A</g:custom_label_4>
   </item>
   <item>
-    <g:id>26067</g:id>
+    <g:id>1GCPTEEK1T1209937</g:id>
     <g:VIN>1GCPTEEK1T1209937</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1037,9 +1037,9 @@
     <g:condition>New</g:condition>
     <g:price>44920.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcpteek1t1209937/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Colorado-4WD+Trail+Boss-1GCPTEEK1T1209937</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Colorado-4WD+Trail+Boss-1GCPTEEK1T1209937?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Colorado 4WD Trail Boss</g:title>
@@ -1054,7 +1054,7 @@
     <g:custom_label_4>26067</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2644</g:id>
+    <g:id>1GCUDDED1RZ245603</g:id>
     <g:VIN>1GCUDDED1RZ245603</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1086,7 +1086,7 @@
     <g:custom_label_4>P2644</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2647</g:id>
+    <g:id>1GCRYAEHXMZ134729</g:id>
     <g:VIN>1GCRYAEHXMZ134729</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1104,9 +1104,9 @@
     <g:condition>Used</g:condition>
     <g:price>26995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcryaehxmz134729/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Silverado+1500-WT-1GCRYAEHXMZ134729</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Silverado+1500-WT-1GCRYAEHXMZ134729?store=5542329254</g:link_template>
     <g:title>2021 Chevrolet Silverado WT</g:title>
@@ -1121,7 +1121,7 @@
     <g:custom_label_4>P2647</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2646</g:id>
+    <g:id>2GKFLUE31H6219682</g:id>
     <g:VIN>2GKFLUE31H6219682</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1139,9 +1139,9 @@
     <g:condition>Used</g:condition>
     <g:price>17995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2gkflue31h6219682/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2017-GMC-Terrain-SLT-2GKFLUE31H6219682</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2017-GMC-Terrain-SLT-2GKFLUE31H6219682?store=5542329254</g:link_template>
     <g:title>2017 GMC Terrain SLT</g:title>
@@ -1156,7 +1156,7 @@
     <g:custom_label_4>P2646</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2649</g:id>
+    <g:id>1FMJK1GT8LEA74046</g:id>
     <g:VIN>1FMJK1GT8LEA74046</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1174,9 +1174,9 @@
     <g:condition>Used</g:condition>
     <g:price>29995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1fmjk1gt8lea74046/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ford-Expedition+MAX-XL-1FMJK1GT8LEA74046</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ford-Expedition+MAX-XL-1FMJK1GT8LEA74046?store=5542329254</g:link_template>
     <g:title>2020 Ford Expedition MAX XL</g:title>
@@ -1191,7 +1191,7 @@
     <g:custom_label_4>P2649</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2648</g:id>
+    <g:id>1GNSKAEC0HR287527</g:id>
     <g:VIN>1GNSKAEC0HR287527</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1209,9 +1209,9 @@
     <g:condition>Used</g:condition>
     <g:price>29995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskaec0hr287527/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2017-Chevrolet-Tahoe-LS-1GNSKAEC0HR287527</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2017-Chevrolet-Tahoe-LS-1GNSKAEC0HR287527?store=5542329254</g:link_template>
     <g:title>2017 Chevrolet Tahoe LS</g:title>
@@ -1226,7 +1226,7 @@
     <g:custom_label_4>P2648</g:custom_label_4>
   </item>
   <item>
-    <g:id>26051A</g:id>
+    <g:id>1GNEVGKW4JJ189739</g:id>
     <g:VIN>1GNEVGKW4JJ189739</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1258,7 +1258,7 @@
     <g:custom_label_4>26051A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2520A</g:id>
+    <g:id>1GC4K0CG2CF109310</g:id>
     <g:VIN>1GC4K0CG2CF109310</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1276,9 +1276,9 @@
     <g:condition>Used</g:condition>
     <g:price>24995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4k0cg2cf109310/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2012-Chevrolet-Silverado+3500-SRW+LT-1GC4K0CG2CF109310</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2012-Chevrolet-Silverado+3500-SRW+LT-1GC4K0CG2CF109310?store=5542329254</g:link_template>
     <g:title>2012 Chevrolet Silverado SRW LT</g:title>
@@ -1293,7 +1293,7 @@
     <g:custom_label_4>P2520A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2618B</g:id>
+    <g:id>KMHLS4AG8NU292471</g:id>
     <g:VIN>KMHLS4AG8NU292471</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1311,9 +1311,9 @@
     <g:condition>Used</g:condition>
     <g:price>13995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/kmhls4ag8nu292471/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2022-Hyundai-Elantra-SEL-KMHLS4AG8NU292471</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2022-Hyundai-Elantra-SEL-KMHLS4AG8NU292471?store=5542329254</g:link_template>
     <g:title>2022 Hyundai Elantra SEL</g:title>
@@ -1328,7 +1328,7 @@
     <g:custom_label_4>P2618B</g:custom_label_4>
   </item>
   <item>
-    <g:id>26062</g:id>
+    <g:id>1GNS6CKD6TR284945</g:id>
     <g:VIN>1GNS6CKD6TR284945</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1346,9 +1346,9 @@
     <g:condition>New</g:condition>
     <g:price>76770.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6ckd6tr284945/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Suburban-LT-1GNS6CKD6TR284945</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Suburban-LT-1GNS6CKD6TR284945?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Suburban LT</g:title>
@@ -1363,7 +1363,7 @@
     <g:custom_label_4>26062</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2641</g:id>
+    <g:id>1GT39SEY2RF290281</g:id>
     <g:VIN>1GT39SEY2RF290281</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1381,9 +1381,9 @@
     <g:condition>Used</g:condition>
     <g:price>49995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt39sey2rf290281/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-GMC-Sierra+3500-Pro-1GT39SEY2RF290281</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-GMC-Sierra+3500-Pro-1GT39SEY2RF290281?store=5542329254</g:link_template>
     <g:title>2024 GMC Sierra Pro</g:title>
@@ -1398,7 +1398,7 @@
     <g:custom_label_4>P2641</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2635</g:id>
+    <g:id>3GNAXPEG1SL306863</g:id>
     <g:VIN>3GNAXPEG1SL306863</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1416,9 +1416,9 @@
     <g:condition>Used</g:condition>
     <g:price>28995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg1sl306863/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Equinox-AWD+LT-3GNAXPEG1SL306863</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Equinox-AWD+LT-3GNAXPEG1SL306863?store=5542329254</g:link_template>
     <g:title>2025 Chevrolet Equinox AWD LT</g:title>
@@ -1433,7 +1433,7 @@
     <g:custom_label_4>P2635</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2638</g:id>
+    <g:id>1FTFW3L81SKD84910</g:id>
     <g:VIN>1FTFW3L81SKD84910</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1451,9 +1451,9 @@
     <g:condition>Used</g:condition>
     <g:price>42995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw3l81skd84910/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Ford-F-150-XLT-1FTFW3L81SKD84910</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Ford-F-150-XLT-1FTFW3L81SKD84910?store=5542329254</g:link_template>
     <g:title>2025 Ford F-150 XLT</g:title>
@@ -1468,7 +1468,7 @@
     <g:custom_label_4>P2638</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2636</g:id>
+    <g:id>1FTFW1E86PKE19188</g:id>
     <g:VIN>1FTFW1E86PKE19188</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1486,9 +1486,9 @@
     <g:condition>Used</g:condition>
     <g:price>39995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1e86pke19188/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2023-Ford-F-150-XLT-1FTFW1E86PKE19188</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2023-Ford-F-150-XLT-1FTFW1E86PKE19188?store=5542329254</g:link_template>
     <g:title>2023 Ford F-150 XLT</g:title>
@@ -1503,7 +1503,7 @@
     <g:custom_label_4>P2636</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2637</g:id>
+    <g:id>1GTU9CED8MZ396118</g:id>
     <g:VIN>1GTU9CED8MZ396118</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1521,9 +1521,9 @@
     <g:condition>Used</g:condition>
     <g:price>36995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gtu9ced8mz396118/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-GMC-Sierra+1500-Elevation-1GTU9CED8MZ396118</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-GMC-Sierra+1500-Elevation-1GTU9CED8MZ396118?store=5542329254</g:link_template>
     <g:title>2021 GMC Sierra Elevation</g:title>
@@ -1538,7 +1538,7 @@
     <g:custom_label_4>P2637</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2632</g:id>
+    <g:id>1GCUYDED4LZ170200</g:id>
     <g:VIN>1GCUYDED4LZ170200</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1556,9 +1556,9 @@
     <g:condition>Used</g:condition>
     <g:price>36995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gcuyded4lz170200/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2020-Chevrolet-Silverado+1500-LT-1GCUYDED4LZ170200</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2020-Chevrolet-Silverado+1500-LT-1GCUYDED4LZ170200?store=5542329254</g:link_template>
     <g:title>2020 Chevrolet Silverado LT</g:title>
@@ -1573,7 +1573,7 @@
     <g:custom_label_4>P2632</g:custom_label_4>
   </item>
   <item>
-    <g:id>26060</g:id>
+    <g:id>3GCUKDED0TG293851</g:id>
     <g:VIN>3GCUKDED0TG293851</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1591,9 +1591,9 @@
     <g:condition>New</g:condition>
     <g:price>51166.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gcukded0tg293851/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+1500-LT-3GCUKDED0TG293851</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+1500-LT-3GCUKDED0TG293851?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Silverado LT</g:title>
@@ -1608,7 +1608,7 @@
     <g:custom_label_4>26060</g:custom_label_4>
   </item>
   <item>
-    <g:id>26047A</g:id>
+    <g:id>3GNKBKRSXRS153159</g:id>
     <g:VIN>3GNKBKRSXRS153159</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1626,9 +1626,9 @@
     <g:condition>Used</g:condition>
     <g:price>33995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxrs153159/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Chevrolet-Blazer-RS-3GNKBKRSXRS153159</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Chevrolet-Blazer-RS-3GNKBKRSXRS153159?store=5542329254</g:link_template>
     <g:title>2024 Chevrolet Blazer RS</g:title>
@@ -1643,7 +1643,7 @@
     <g:custom_label_4>26047A</g:custom_label_4>
   </item>
   <item>
-    <g:id>25125C</g:id>
+    <g:id>2D4GP74L93R208835</g:id>
     <g:VIN>2D4GP74L93R208835</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1675,7 +1675,7 @@
     <g:custom_label_4>25125C</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2453B</g:id>
+    <g:id>JM1DKFC77G0135204</g:id>
     <g:VIN>JM1DKFC77G0135204</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1693,9 +1693,9 @@
     <g:condition>Used</g:condition>
     <g:price>10995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/jm1dkfc77g0135204/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2016-Mazda-CX-3-Touring-JM1DKFC77G0135204</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2016-Mazda-CX-3-Touring-JM1DKFC77G0135204?store=5542329254</g:link_template>
     <g:title>2016 Mazda CX-3 Touring</g:title>
@@ -1710,7 +1710,7 @@
     <g:custom_label_4>P2453B</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2629</g:id>
+    <g:id>1FT8W3BN9PED29661</g:id>
     <g:VIN>1FT8W3BN9PED29661</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1728,9 +1728,9 @@
     <g:condition>Used</g:condition>
     <g:price>47995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ft8w3bn9ped29661/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2023-Ford-F-350+Super+Duty-XLT-1FT8W3BN9PED29661</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2023-Ford-F-350+Super+Duty-XLT-1FT8W3BN9PED29661?store=5542329254</g:link_template>
     <g:title>2023 Ford F-350 XLT</g:title>
@@ -1745,7 +1745,7 @@
     <g:custom_label_4>P2629</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2628A</g:id>
+    <g:id>1C6SRFFT2LN407836</g:id>
     <g:VIN>1C6SRFFT2LN407836</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1763,9 +1763,9 @@
     <g:condition>Used</g:condition>
     <g:price>29995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1c6srfft2ln407836/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ram-1500-Big+Horn-1C6SRFFT2LN407836</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ram-1500-Big+Horn-1C6SRFFT2LN407836?store=5542329254</g:link_template>
     <g:title>2020 Ram 1500 Big Horn</g:title>
@@ -1780,7 +1780,7 @@
     <g:custom_label_4>P2628A</g:custom_label_4>
   </item>
   <item>
-    <g:id>26015D</g:id>
+    <g:id>3GNKBKRSXSS126629</g:id>
     <g:VIN>3GNKBKRSXSS126629</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1798,9 +1798,9 @@
     <g:condition>Used</g:condition>
     <g:price>35995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbkrsxss126629/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Blazer-RS-3GNKBKRSXSS126629</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Blazer-RS-3GNKBKRSXSS126629?store=5542329254</g:link_template>
     <g:title>2025 Chevrolet Blazer RS</g:title>
@@ -1815,7 +1815,7 @@
     <g:custom_label_4>26015D</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2627</g:id>
+    <g:id>5GAEVBRS6SJ272073</g:id>
     <g:VIN>5GAEVBRS6SJ272073</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1833,9 +1833,9 @@
     <g:condition>Used</g:condition>
     <g:price>44995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/5gaevbrs6sj272073/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Buick-Enclave-Sport+Touring-5GAEVBRS6SJ272073</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Buick-Enclave-Sport+Touring-5GAEVBRS6SJ272073?store=5542329254</g:link_template>
     <g:title>2025 Buick Enclave Sport Touring</g:title>
@@ -1850,7 +1850,7 @@
     <g:custom_label_4>P2627</g:custom_label_4>
   </item>
   <item>
-    <g:id>26057</g:id>
+    <g:id>1GC4KUEY8TF223891</g:id>
     <g:VIN>1GC4KUEY8TF223891</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1868,9 +1868,9 @@
     <g:condition>New</g:condition>
     <g:price>84980.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4kuey8tf223891/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+3500-LTZ+DRW-1GC4KUEY8TF223891</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+3500-LTZ+DRW-1GC4KUEY8TF223891?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Silverado LTZ DRW</g:title>
@@ -1885,7 +1885,7 @@
     <g:custom_label_4>26057</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2614A</g:id>
+    <g:id>1GNSKJKC4JR188123</g:id>
     <g:VIN>1GNSKJKC4JR188123</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1903,9 +1903,9 @@
     <g:condition>Used</g:condition>
     <g:price>19995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnskjkc4jr188123/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2018-Chevrolet-Suburban+1500-Premier-1GNSKJKC4JR188123</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2018-Chevrolet-Suburban+1500-Premier-1GNSKJKC4JR188123?store=5542329254</g:link_template>
     <g:title>2018 Chevrolet Suburban Premier</g:title>
@@ -1920,7 +1920,7 @@
     <g:custom_label_4>P2614A</g:custom_label_4>
   </item>
   <item>
-    <g:id>26041B</g:id>
+    <g:id>2HKRM4H70FH663083</g:id>
     <g:VIN>2HKRM4H70FH663083</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1938,9 +1938,9 @@
     <g:condition>Used</g:condition>
     <g:price>8995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/2hkrm4h70fh663083/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2015-Honda-CR-V-EX-L-2HKRM4H70FH663083</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2015-Honda-CR-V-EX-L-2HKRM4H70FH663083?store=5542329254</g:link_template>
     <g:title>2015 Honda CR-V EX-L</g:title>
@@ -1955,7 +1955,7 @@
     <g:custom_label_4>26041B</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2624</g:id>
+    <g:id>1GC5YSE70LF306584</g:id>
     <g:VIN>1GC5YSE70LF306584</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -1973,9 +1973,9 @@
     <g:condition>Used</g:condition>
     <g:price>35995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc5yse70lf306584/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2020-Chevrolet-Silverado+3500-WT-1GC5YSE70LF306584</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2020-Chevrolet-Silverado+3500-WT-1GC5YSE70LF306584?store=5542329254</g:link_template>
     <g:title>2020 Chevrolet Silverado WT</g:title>
@@ -1990,7 +1990,7 @@
     <g:custom_label_4>P2624</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2619</g:id>
+    <g:id>1GNS6DRD8SR266389</g:id>
     <g:VIN>1GNS6DRD8SR266389</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2008,9 +2008,9 @@
     <g:condition>Used</g:condition>
     <g:price>66995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gns6drd8sr266389/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Suburban-Z71-1GNS6DRD8SR266389</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Chevrolet-Suburban-Z71-1GNS6DRD8SR266389?store=5542329254</g:link_template>
     <g:title>2025 Chevrolet Suburban Z71</g:title>
@@ -2025,7 +2025,7 @@
     <g:custom_label_4>P2619</g:custom_label_4>
   </item>
   <item>
-    <g:id>25118B</g:id>
+    <g:id>1FTFW1EV9AKA97868</g:id>
     <g:VIN>1FTFW1EV9AKA97868</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2057,7 +2057,7 @@
     <g:custom_label_4>25118B</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2452B</g:id>
+    <g:id>3C6TR5HT7EG269346</g:id>
     <g:VIN>3C6TR5HT7EG269346</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2089,7 +2089,7 @@
     <g:custom_label_4>P2452B</g:custom_label_4>
   </item>
   <item>
-    <g:id>25124M</g:id>
+    <g:id>4V0FC262051006068</g:id>
     <g:VIN>4V0FC262051006068</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2120,7 +2120,7 @@
     <g:custom_label_4>25124M</g:custom_label_4>
   </item>
   <item>
-    <g:id>26038</g:id>
+    <g:id>1GNEVJKS1TJ244998</g:id>
     <g:VIN>1GNEVJKS1TJ244998</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2138,9 +2138,9 @@
     <g:condition>New</g:condition>
     <g:price>56875.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevjks1tj244998/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Traverse-AWD+Z71-1GNEVJKS1TJ244998</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Traverse-AWD+Z71-1GNEVJKS1TJ244998?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Traverse AWD Z71</g:title>
@@ -2155,7 +2155,7 @@
     <g:custom_label_4>26038</g:custom_label_4>
   </item>
   <item>
-    <g:id>26031</g:id>
+    <g:id>1GC4KSEY2TF189113</g:id>
     <g:VIN>1GC4KSEY2TF189113</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2173,9 +2173,9 @@
     <g:condition>New</g:condition>
     <g:price>68605.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4ksey2tf189113/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+3500-Work+Truck-1GC4KSEY2TF189113</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Silverado+3500-Work+Truck-1GC4KSEY2TF189113?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Silverado Work Truck</g:title>
@@ -2190,7 +2190,7 @@
     <g:custom_label_4>26031</g:custom_label_4>
   </item>
   <item>
-    <g:id>26029</g:id>
+    <g:id>3GNAXPEG6TL357132</g:id>
     <g:VIN>3GNAXPEG6TL357132</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2208,9 +2208,9 @@
     <g:condition>New</g:condition>
     <g:price>36790.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnaxpeg6tl357132/sp/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Equinox-AWD+LT-3GNAXPEG6TL357132</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/new-Chadron-2026-Chevrolet-Equinox-AWD+LT-3GNAXPEG6TL357132?store=5542329254</g:link_template>
     <g:title>2026 Chevrolet Equinox AWD LT</g:title>
@@ -2225,7 +2225,7 @@
     <g:custom_label_4>26029</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2552</g:id>
+    <g:id>1GT49TE78RF183060</g:id>
     <g:VIN>1GT49TE78RF183060</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2243,9 +2243,9 @@
     <g:condition>Used</g:condition>
     <g:price>49995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gt49te78rf183060/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-GMC-Sierra+3500-SLE-1GT49TE78RF183060</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-GMC-Sierra+3500-SLE-1GT49TE78RF183060?store=5542329254</g:link_template>
     <g:title>2024 GMC Sierra SLE</g:title>
@@ -2260,7 +2260,7 @@
     <g:custom_label_4>P2552</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2547</g:id>
+    <g:id>3C63RRHL4RG344744</g:id>
     <g:VIN>3C63RRHL4RG344744</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2278,9 +2278,9 @@
     <g:condition>Used</g:condition>
     <g:price>52995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl4rg344744/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Ram-3500-Big+Horn-3C63RRHL4RG344744</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Ram-3500-Big+Horn-3C63RRHL4RG344744?store=5542329254</g:link_template>
     <g:title>2024 Ram 3500 Big Horn</g:title>
@@ -2295,7 +2295,7 @@
     <g:custom_label_4>P2547</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2548</g:id>
+    <g:id>3C63RRHL0PG643144</g:id>
     <g:VIN>3C63RRHL0PG643144</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2313,9 +2313,9 @@
     <g:condition>Used</g:condition>
     <g:price>49995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3c63rrhl0pg643144/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2023-Ram-3500-Big+Horn-3C63RRHL0PG643144</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2023-Ram-3500-Big+Horn-3C63RRHL0PG643144?store=5542329254</g:link_template>
     <g:title>2023 Ram 3500 Big Horn</g:title>
@@ -2330,7 +2330,7 @@
     <g:custom_label_4>P2548</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2541</g:id>
+    <g:id>1GC4YTE78RF206999</g:id>
     <g:VIN>1GC4YTE78RF206999</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2348,9 +2348,9 @@
     <g:condition>Used</g:condition>
     <g:price>49995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gc4yte78rf206999/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Chevrolet-Silverado+3500-LT-1GC4YTE78RF206999</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Chevrolet-Silverado+3500-LT-1GC4YTE78RF206999?store=5542329254</g:link_template>
     <g:title>2024 Chevrolet Silverado LT</g:title>
@@ -2365,7 +2365,7 @@
     <g:custom_label_4>P2541</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2515</g:id>
+    <g:id>3GNKBHR44NS133018</g:id>
     <g:VIN>3GNKBHR44NS133018</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2383,9 +2383,9 @@
     <g:condition>Used</g:condition>
     <g:price>23995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/3gnkbhr44ns133018/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2022-Chevrolet-Blazer-LT-3GNKBHR44NS133018</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2022-Chevrolet-Blazer-LT-3GNKBHR44NS133018?store=5542329254</g:link_template>
     <g:title>2022 Chevrolet Blazer LT</g:title>
@@ -2400,7 +2400,7 @@
     <g:custom_label_4>P2515</g:custom_label_4>
   </item>
   <item>
-    <g:id>26008A</g:id>
+    <g:id>1GNEVFKW7NJ121757</g:id>
     <g:VIN>1GNEVFKW7NJ121757</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2418,9 +2418,9 @@
     <g:condition>Used</g:condition>
     <g:price>23995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1gnevfkw7nj121757/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2022-Chevrolet-Traverse-LS-1GNEVFKW7NJ121757</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2022-Chevrolet-Traverse-LS-1GNEVFKW7NJ121757?store=5542329254</g:link_template>
     <g:title>2022 Chevrolet Traverse LS</g:title>
@@ -2435,7 +2435,7 @@
     <g:custom_label_4>26008A</g:custom_label_4>
   </item>
   <item>
-    <g:id>P2512</g:id>
+    <g:id>1FTFW1EG3JFD75884</g:id>
     <g:VIN>1FTFW1EG3JFD75884</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2453,9 +2453,9 @@
     <g:condition>Used</g:condition>
     <g:price>27995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/19648/1ftfw1eg3jfd75884/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2018-Ford-F-150-XLT-1FTFW1EG3JFD75884</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2018-Ford-F-150-XLT-1FTFW1EG3JFD75884?store=5542329254</g:link_template>
     <g:title>2018 Ford F-150 XLT</g:title>
@@ -2470,7 +2470,7 @@
     <g:custom_label_4>P2512</g:custom_label_4>
   </item>
   <item>
-    <g:id>T9332</g:id>
+    <g:id>1FTEW1E46LFB39332</g:id>
     <g:VIN>1FTEW1E46LFB39332</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2488,9 +2488,9 @@
     <g:condition>Used</g:condition>
     <g:price>32995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftew1e46lfb39332/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ford-F-150--1FTEW1E46LFB39332</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ford-F-150--1FTEW1E46LFB39332?store=5542329254</g:link_template>
     <g:title>2020 Ford F-150</g:title>
@@ -2505,7 +2505,7 @@
     <g:custom_label_4>T9332</g:custom_label_4>
   </item>
   <item>
-    <g:id>T9525</g:id>
+    <g:id>1C6SRFFT7KN569525</g:id>
     <g:VIN>1C6SRFFT7KN569525</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2523,9 +2523,9 @@
     <g:condition>Used</g:condition>
     <g:price>29995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfft7kn569525/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2019-Ram-1500--1C6SRFFT7KN569525</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2019-Ram-1500--1C6SRFFT7KN569525?store=5542329254</g:link_template>
     <g:title>2019 Ram 1500</g:title>
@@ -2540,7 +2540,7 @@
     <g:custom_label_4>T9525</g:custom_label_4>
   </item>
   <item>
-    <g:id>T7722</g:id>
+    <g:id>1FTFX1ET2EKD27722</g:id>
     <g:VIN>1FTFX1ET2EKD27722</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2558,9 +2558,9 @@
     <g:condition>Used</g:condition>
     <g:price>19995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1ftfx1et2ekd27722/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2014-Ford-F-150--1FTFX1ET2EKD27722</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2014-Ford-F-150--1FTFX1ET2EKD27722?store=5542329254</g:link_template>
     <g:title>2014 Ford F-150</g:title>
@@ -2575,7 +2575,7 @@
     <g:custom_label_4>T7722</g:custom_label_4>
   </item>
   <item>
-    <g:id>T1570</g:id>
+    <g:id>5GAKRCKD9GJ191570</g:id>
     <g:VIN>5GAKRCKD9GJ191570</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2593,14 +2593,14 @@
     <g:condition>Used</g:condition>
     <g:price>15995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2016-Buick-Enclave-Premium-5GAKRCKD9GJ191570</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2016-Buick-Enclave-Premium-5GAKRCKD9GJ191570?store=5542329254</g:link_template>
     <g:title>2016 Buick Enclave Premium</g:title>
     <g:description></g:description>
-    <g:body_style>station_wagon</g:body_style>
+    <g:body_style>suv</g:body_style>
     <g:engine>gasoline</g:engine>
     <g:product_type>1/2 Ton SUV</g:product_type>
     <g:custom_label_0>Buick</g:custom_label_0>
@@ -2610,7 +2610,7 @@
     <g:custom_label_4>T1570</g:custom_label_4>
   </item>
   <item>
-    <g:id>T5660</g:id>
+    <g:id>ZACNDFAN8R3A15660</g:id>
     <g:VIN>ZACNDFAN8R3A15660</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2628,9 +2628,9 @@
     <g:condition>Used</g:condition>
     <g:price>24995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zacndfan8r3a15660/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Dodge-Hornet-GT-ZACNDFAN8R3A15660</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Dodge-Hornet-GT-ZACNDFAN8R3A15660?store=5542329254</g:link_template>
     <g:title>2024 Dodge Hornet GT</g:title>
@@ -2645,7 +2645,7 @@
     <g:custom_label_4>T5660</g:custom_label_4>
   </item>
   <item>
-    <g:id>T7141</g:id>
+    <g:id>1C6RR7FT1JS327141</g:id>
     <g:VIN>1C6RR7FT1JS327141</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2663,9 +2663,9 @@
     <g:condition>Used</g:condition>
     <g:price>28995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6rr7ft1js327141/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2018-Ram-1500--1C6RR7FT1JS327141</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2018-Ram-1500--1C6RR7FT1JS327141?store=5542329254</g:link_template>
     <g:title>2018 Ram 1500</g:title>
@@ -2680,7 +2680,7 @@
     <g:custom_label_4>T7141</g:custom_label_4>
   </item>
   <item>
-    <g:id>T7498</g:id>
+    <g:id>3GCPKREA9DG247498</g:id>
     <g:VIN>3GCPKREA9DG247498</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2698,9 +2698,9 @@
     <g:condition>Used</g:condition>
     <g:price>6995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gcpkrea9dg247498/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2013-Chevrolet-Silverado+1500-LS-3GCPKREA9DG247498</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2013-Chevrolet-Silverado+1500-LS-3GCPKREA9DG247498?store=5542329254</g:link_template>
     <g:title>2013 Chevrolet Silverado LS</g:title>
@@ -2715,7 +2715,7 @@
     <g:custom_label_4>T7498</g:custom_label_4>
   </item>
   <item>
-    <g:id>TTT8331</g:id>
+    <g:id>1C4RJXP67SW578331</g:id>
     <g:VIN>1C4RJXP67SW578331</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2733,9 +2733,9 @@
     <g:condition>Used</g:condition>
     <g:price>31995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjxp67sw578331/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2025-Jeep-Wrangler+4xe-Sahara-1C4RJXP67SW578331</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2025-Jeep-Wrangler+4xe-Sahara-1C4RJXP67SW578331?store=5542329254</g:link_template>
     <g:title>2025 Jeep Wrangler 4xe Sahara</g:title>
@@ -2750,7 +2750,7 @@
     <g:custom_label_4>TTT8331</g:custom_label_4>
   </item>
   <item>
-    <g:id>T4972</g:id>
+    <g:id>1FMCU9H90MUB14972</g:id>
     <g:VIN>1FMCU9H90MUB14972</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2768,9 +2768,9 @@
     <g:condition>Used</g:condition>
     <g:price>23995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1fmcu9h90mub14972/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Ford-Escape-SEL-1FMCU9H90MUB14972</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Ford-Escape-SEL-1FMCU9H90MUB14972?store=5542329254</g:link_template>
     <g:title>2021 Ford Escape SEL</g:title>
@@ -2785,7 +2785,7 @@
     <g:custom_label_4>T4972</g:custom_label_4>
   </item>
   <item>
-    <g:id>T8241</g:id>
+    <g:id>ZACCJBCT5GPC58241</g:id>
     <g:VIN>ZACCJBCT5GPC58241</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2803,9 +2803,9 @@
     <g:condition>Used</g:condition>
     <g:price>14995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/zaccjbct5gpc58241/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2016-Jeep-Renegade-Trailhawk-ZACCJBCT5GPC58241</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2016-Jeep-Renegade-Trailhawk-ZACCJBCT5GPC58241?store=5542329254</g:link_template>
     <g:title>2016 Jeep Renegade Trailhawk</g:title>
@@ -2820,7 +2820,7 @@
     <g:custom_label_4>T8241</g:custom_label_4>
   </item>
   <item>
-    <g:id>TT2338</g:id>
+    <g:id>5NTJDDAF3NH002338</g:id>
     <g:VIN>5NTJDDAF3NH002338</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2838,9 +2838,9 @@
     <g:condition>Used</g:condition>
     <g:price>22995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5ntjddaf3nh002338/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2022-Hyundai-Santa+Cruz-SEL+Premium-5NTJDDAF3NH002338</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2022-Hyundai-Santa+Cruz-SEL+Premium-5NTJDDAF3NH002338?store=5542329254</g:link_template>
     <g:title>2022 Hyundai Santa Cruz SEL Premium</g:title>
@@ -2855,7 +2855,7 @@
     <g:custom_label_4>TT2338</g:custom_label_4>
   </item>
   <item>
-    <g:id>T5212</g:id>
+    <g:id>1C6SRFMT7LN125212</g:id>
     <g:VIN>1C6SRFMT7LN125212</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2873,9 +2873,9 @@
     <g:condition>Used</g:condition>
     <g:price>31995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c6srfmt7ln125212/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ram-1500--1C6SRFMT7LN125212</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2020-Ram-1500--1C6SRFMT7LN125212?store=5542329254</g:link_template>
     <g:title>2020 Ram 1500</g:title>
@@ -2890,7 +2890,7 @@
     <g:custom_label_4>T5212</g:custom_label_4>
   </item>
   <item>
-    <g:id>TTT0688</g:id>
+    <g:id>7MMVABBM9RN180688</g:id>
     <g:VIN>7MMVABBM9RN180688</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2908,9 +2908,9 @@
     <g:condition>Used</g:condition>
     <g:price>25995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/7mmvabbm9rn180688/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Mazda-CX-50-25+S+Preferred-7MMVABBM9RN180688</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Mazda-CX-50-25+S+Preferred-7MMVABBM9RN180688?store=5542329254</g:link_template>
     <g:title>2024 Mazda CX-50 2.5 S Preferred</g:title>
@@ -2925,7 +2925,7 @@
     <g:custom_label_4>TTT0688</g:custom_label_4>
   </item>
   <item>
-    <g:id>T6621</g:id>
+    <g:id>1GC2YME74RF326621</g:id>
     <g:VIN>1GC2YME74RF326621</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2943,9 +2943,9 @@
     <g:condition>Used</g:condition>
     <g:price>41995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1gc2yme74rf326621/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2024-Chevrolet-Silverado+2500-Custom-1GC2YME74RF326621</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2024-Chevrolet-Silverado+2500-Custom-1GC2YME74RF326621?store=5542329254</g:link_template>
     <g:title>2024 Chevrolet Silverado Custom</g:title>
@@ -2960,7 +2960,7 @@
     <g:custom_label_4>T6621</g:custom_label_4>
   </item>
   <item>
-    <g:id>TT0271</g:id>
+    <g:id>1C4PJMMX4MD140271</g:id>
     <g:VIN>1C4PJMMX4MD140271</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -2978,9 +2978,9 @@
     <g:condition>Used</g:condition>
     <g:price>21995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4pjmmx4md140271/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Jeep-Cherokee-Latitude+Lux+(US)+/+Altitude+(Can)-1C4PJMMX4MD140271</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Jeep-Cherokee-Latitude+Lux+(US)+/+Altitude+(Can)-1C4PJMMX4MD140271?store=5542329254</g:link_template>
     <g:title>2021 Jeep Cherokee Latitude Lux (US) / Altitude (Can)</g:title>
@@ -2995,7 +2995,7 @@
     <g:custom_label_4>TT0271</g:custom_label_4>
   </item>
   <item>
-    <g:id>T3600</g:id>
+    <g:id>3GNAXUEV6ML353600</g:id>
     <g:VIN>3GNAXUEV6ML353600</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -3013,14 +3013,14 @@
     <g:condition>Used</g:condition>
     <g:price>22995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Equinox-LT+(1LT)-3GNAXUEV6ML353600</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2021-Chevrolet-Equinox-LT+(1LT)-3GNAXUEV6ML353600?store=5542329254</g:link_template>
     <g:title>2021 Chevrolet Equinox LT (1LT)</g:title>
     <g:description></g:description>
-    <g:body_style>station_wagon</g:body_style>
+    <g:body_style>suv</g:body_style>
     <g:engine>gasoline</g:engine>
     <g:product_type>Mid-size SUV</g:product_type>
     <g:custom_label_0>Chevrolet</g:custom_label_0>
@@ -3030,7 +3030,7 @@
     <g:custom_label_4>T3600</g:custom_label_4>
   </item>
   <item>
-    <g:id>T2517</g:id>
+    <g:id>1C4RJKAG3P8802517</g:id>
     <g:VIN>1C4RJKAG3P8802517</g:VIN>
     <g:store_code>5542329254</g:store_code>
     <g:vehicle_fulfillment>
@@ -3048,9 +3048,9 @@
     <g:condition>Used</g:condition>
     <g:price>25995.00 USD</g:price>
     <g:image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/1.jpg</g:image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/2.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/3.jpg</g:additional_image_link>
-      <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/4.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/2.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/3.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.eaglechevroletbuick.com/inventoryphotos/21122/1c4rjkag3p8802517/ip/4.jpg</g:additional_image_link>
     <g:link>https://www.eaglechevroletbuick.com/used-Chadron-2023-Jeep-Grand+Cherokee+L-Laredo+/+Altitude-1C4RJKAG3P8802517</g:link>
     <g:link_template>https://www.eaglechevroletbuick.com/used-Chadron-2023-Jeep-Grand+Cherokee+L-Laredo+/+Altitude-1C4RJKAG3P8802517?store=5542329254</g:link_template>
     <g:title>2023 Jeep Grand Cherokee L Laredo / Altitude</g:title>
