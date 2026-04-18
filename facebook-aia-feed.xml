@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Eagle Chevrolet Buick - Meta Automotive Inventory Ads</title>
+    <title>Eagle Chevrolet Buick Meta AIA Feed</title>
     <link>https://www.eaglechevroletbuick.com</link>
-    <description>Vehicle inventory feed for Eagle Chevrolet Buick, Chadron NE - Meta AIA</description>
+    <description>Meta Automotive Inventory Ads feed for Eagle Chevrolet Buick, Chadron NE</description>
   <item>
     <vehicle_id>1GNEVGRS0SJ127775</vehicle_id>
     <title>2025 Chevrolet Traverse AWD LT</title>
@@ -73,7 +73,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GCUKPEC5JG132739</vin>
     <trim>Custom</trim>
     <interior_color>Dark Ash/Jet Black</interior_color>
@@ -236,7 +236,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1C4RDJDG7TC189306</vin>
     <trim>GT</trim>
     <interior_color>Black</interior_color>
@@ -276,7 +276,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GT49TE78PF141677</vin>
     <trim>SLE</trim>
     <interior_color>Jet Black</interior_color>
@@ -359,7 +359,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>RWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>2G1FC1E31E9210462</vin>
     <trim>LT</trim>
     <interior_color>Black</interior_color>
@@ -402,7 +402,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GKS2MEF3DR232167</vin>
     <trim>Denali</trim>
     <interior_color>Cocoa/Light Cashmere</interior_color>
@@ -442,7 +442,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GKS2HKD6RR196119</vin>
     <trim>AT4</trim>
     <interior_color>Jet Black</interior_color>
@@ -485,7 +485,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3C6UR5FL8RG407487</vin>
     <trim>Laramie</trim>
     <interior_color>Black</interior_color>
@@ -528,7 +528,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>FWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1G1ZC5ST0JF195737</vin>
     <trim>LS</trim>
     <interior_color>Jet Black</interior_color>
@@ -571,7 +571,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>RWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>2B3KA43GX6H516362</vin>
     <trim>SE</trim>
     <interior_color>Dark Slate Gray/Light Graystone</interior_color>
@@ -614,7 +614,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GC4KLE71TF259973</vin>
     <trim>WT</trim>
     <interior_color>Jet Black Vinyl Seat Trim</interior_color>
@@ -657,7 +657,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GNAXSEV4MS182419</vin>
     <trim>LS</trim>
     <interior_color>Medium Ash Gray</interior_color>
@@ -697,7 +697,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FT8W3BT2CED20082</vin>
     <trim>XL</trim>
     <interior_color>Steel</interior_color>
@@ -740,7 +740,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GCUYDED3MZ430507</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -780,7 +780,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GCUYGED5MZ349381</vin>
     <trim>LTZ</trim>
     <interior_color>Gideon/Very Dark Atmosphere</interior_color>
@@ -820,7 +820,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FTFW1EV7AKB36571</vin>
     <trim>XLT</trim>
     <interior_color>Medium Stone/Stone</interior_color>
@@ -860,7 +860,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GTRUBED9PZ216230</vin>
     <trim>SLE</trim>
     <interior_color>Dark Walnut/Slate</interior_color>
@@ -903,7 +903,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>KL7CJPSMXNB563648</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -946,7 +946,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>KL4MMCSL3MB181646</vin>
     <trim>Preferred</trim>
     <interior_color>Ebony w/Ebony Accents</interior_color>
@@ -986,7 +986,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3C63R3CL9FG508778</vin>
     <trim>Tradesman</trim>
     <interior_color>Diesel Gray/Black</interior_color>
@@ -1029,7 +1029,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FMJK2A86REA34213</vin>
     <trim>Limited</trim>
     <interior_color>Sandstone</interior_color>
@@ -1115,7 +1115,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GCUKDED7SZ238876</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -1158,7 +1158,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GKS2GKD0MR412422</vin>
     <trim>SLT</trim>
     <interior_color>Jet Black</interior_color>
@@ -1201,7 +1201,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FMCU9GX8FUC67683</vin>
     <trim>SE</trim>
     <interior_color>Charcoal Black</interior_color>
@@ -1244,7 +1244,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GNKBLRS2PS178933</vin>
     <trim>Premier</trim>
     <interior_color>Jet Black/Maple Sugar</interior_color>
@@ -1327,7 +1327,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GCUDDED1RZ245603</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -1370,7 +1370,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GCRYAEHXMZ134729</vin>
     <trim>WT</trim>
     <interior_color>Jet Black</interior_color>
@@ -1413,7 +1413,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>2GKFLUE31H6219682</vin>
     <trim>SLT</trim>
     <interior_color>Saddle</interior_color>
@@ -1456,7 +1456,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FMJK1GT8LEA74046</vin>
     <trim>XL</trim>
     <interior_color>Ebony</interior_color>
@@ -1499,7 +1499,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GNSKAEC0HR287527</vin>
     <trim>LS</trim>
     <interior_color>Jet Black</interior_color>
@@ -1539,7 +1539,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GNEVGKW4JJ189739</vin>
     <trim>LT Cloth</trim>
     <interior_color>Dark Atmosphere/Medium Ash Gray</interior_color>
@@ -1582,7 +1582,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GC4K0CG2CF109310</vin>
     <trim>SRW LT</trim>
     <interior_color>Blue Granite Metallic</interior_color>
@@ -1625,7 +1625,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>FWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>KMHLS4AG8NU292471</vin>
     <trim>SEL</trim>
     <interior_color>Black</interior_color>
@@ -1668,7 +1668,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GNS6CKD6TR284945</vin>
     <trim>LT</trim>
     <interior_color>Gideon/very Dark Atmosphere Leather Appointed Seat</interior_color>
@@ -1711,7 +1711,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GT39SEY2RF290281</vin>
     <trim>Pro</trim>
     <interior_color>Jet Black</interior_color>
@@ -1797,7 +1797,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FTFW3L81SKD84910</vin>
     <trim>XLT</trim>
     <interior_color>Black w/Medium Dark Slate</interior_color>
@@ -1840,7 +1840,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FTFW1E86PKE19188</vin>
     <trim>XLT</trim>
     <interior_color>Black w/Medium Dark Slate</interior_color>
@@ -1883,7 +1883,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GTU9CED8MZ396118</vin>
     <trim>Elevation</trim>
     <interior_color>Jet Black</interior_color>
@@ -1926,7 +1926,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GCUYDED4LZ170200</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -1969,7 +1969,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GCUKDED0TG293851</vin>
     <trim>LT</trim>
     <interior_color>Jet Black Cloth Seat Trim</interior_color>
@@ -2012,7 +2012,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GNKBKRSXRS153159</vin>
     <trim>RS</trim>
     <interior_color>Jet Black/Red Accents</interior_color>
@@ -2052,7 +2052,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>FWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>2D4GP74L93R208835</vin>
     <trim>EX</trim>
     <interior_color>Taupe</interior_color>
@@ -2095,7 +2095,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>JM1DKFC77G0135204</vin>
     <trim>Touring</trim>
     <interior_color>Black</interior_color>
@@ -2138,7 +2138,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FT8W3BN9PED29661</vin>
     <trim>XLT</trim>
     <interior_color>Medium Dark Slate</interior_color>
@@ -2181,7 +2181,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1C6SRFFT2LN407836</vin>
     <trim>Big Horn</trim>
     <interior_color>Light Frost Beige/Black</interior_color>
@@ -2224,7 +2224,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GNKBKRSXSS126629</vin>
     <trim>RS</trim>
     <interior_color>Jet Black/Red Accents</interior_color>
@@ -2267,7 +2267,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>5GAEVBRS6SJ272073</vin>
     <trim>Sport Touring</trim>
     <interior_color>Ebony w/Sky Cool Gray &amp; Ebony Accents</interior_color>
@@ -2310,7 +2310,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GC4KUEY8TF223891</vin>
     <trim>LTZ DRW</trim>
     <interior_color>Gideon/very Dark Atmosphere Perforated Leather App</interior_color>
@@ -2353,7 +2353,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GNSKJKC4JR188123</vin>
     <trim>Premier</trim>
     <interior_color>Jet Black</interior_color>
@@ -2439,7 +2439,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GC5YSE70LF306584</vin>
     <trim>WT</trim>
     <interior_color>Jet Black</interior_color>
@@ -2482,7 +2482,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GNS6DRD8SR266389</vin>
     <trim>Z71</trim>
     <interior_color>Jet Black</interior_color>
@@ -2522,7 +2522,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FTFW1EV9AKA97868</vin>
     <trim>XLT</trim>
     <interior_color>Medium Stone/Stone</interior_color>
@@ -2562,7 +2562,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3C6TR5HT7EG269346</vin>
     <trim>Tradesman</trim>
     <interior_color>Diesel Gray/Black</interior_color>
@@ -2688,7 +2688,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GC4KSEY2TF189113</vin>
     <trim>Work Truck</trim>
     <interior_color>Jet Black</interior_color>
@@ -2774,7 +2774,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GT49TE78RF183060</vin>
     <trim>SLE</trim>
     <interior_color>Jet Black</interior_color>
@@ -2817,7 +2817,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3C63RRHL4RG344744</vin>
     <trim>Big Horn</trim>
     <interior_color>Diesel Gray/Black</interior_color>
@@ -2860,7 +2860,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3C63RRHL0PG643144</vin>
     <trim>Big Horn</trim>
     <interior_color>Diesel Gray/Black</interior_color>
@@ -2903,7 +2903,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GC4YTE78RF206999</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -2946,7 +2946,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>3GNKBHR44NS133018</vin>
     <trim>LT</trim>
     <interior_color>Jet Black</interior_color>
@@ -2989,7 +2989,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>AWD</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1GNEVFKW7NJ121757</vin>
     <trim>LS</trim>
     <interior_color>Jet Black/Chai</interior_color>
@@ -3032,7 +3032,7 @@
     </address>
     <fuel_type>GASOLINE</fuel_type>
     <transmission>Automatic</transmission>
-    <drivetrain>4X4</drivetrain>
+    <drivetrain>Other</drivetrain>
     <vin>1FTFW1EG3JFD75884</vin>
     <trim>XLT</trim>
     <interior_color>Black</interior_color>
@@ -3191,7 +3191,7 @@
     <image><url>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/2.jpg</url><tag>Exterior</tag></image>
     <image><url>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/3.jpg</url><tag>Exterior</tag></image>
     <image><url>https://www.eaglechevroletbuick.com/inventoryphotos/21122/5gakrckd9gj191570/ip/4.jpg</url><tag>Exterior</tag></image>
-    <body_style>WAGON</body_style>
+    <body_style>SUV</body_style>
     <price>15995 USD</price>
     <exterior_color>GOLD</exterior_color>
     <state_of_vehicle>Used</state_of_vehicle>
@@ -3707,7 +3707,7 @@
     <image><url>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/2.jpg</url><tag>Exterior</tag></image>
     <image><url>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/3.jpg</url><tag>Exterior</tag></image>
     <image><url>https://www.eaglechevroletbuick.com/inventoryphotos/21122/3gnaxuev6ml353600/ip/4.jpg</url><tag>Exterior</tag></image>
-    <body_style>WAGON</body_style>
+    <body_style>SUV</body_style>
     <price>22995 USD</price>
     <exterior_color>GRAY</exterior_color>
     <state_of_vehicle>Used</state_of_vehicle>
